@@ -1,2 +1,2 @@
-# CodifyCode
+# C Pattern Programming
 Learn Something New.
